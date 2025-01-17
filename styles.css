@@ -1,0 +1,28 @@
+body{
+background-image: url(kepek/dark-background-abstract-background-network-3d-background-3840x2160-8324.png);
+color: rgb(255, 255, 255);
+font-family: Arial, sans-serif;
+max-width: 1000px;
+margin:auto
+}
+
+img{
+width: 400px;
+border: 10px solid rgb(50, 48, 48);
+border-radius: 15%;
+padding: 10px;
+}
+
+a{
+text-align: center;
+color: lightgray;
+text-decoration: none;
+padding: 10px;
+border-radius: 10px solid gray;
+border-radius: 25%;
+background-color: rgb(red, green, blue);
+}
+
+
+
+
